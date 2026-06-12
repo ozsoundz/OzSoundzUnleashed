@@ -14,7 +14,7 @@
 <nav id="site-nav" role="navigation">
   <div class="nav-inner">
     <a href="${root}index.html" class="nav-logo" aria-label="Oz Soundz Unleashed Home">
-    <img src="/images/oz-soundz-unleashed.png" alt="Oz Soundz Unleashed"/>
+    <img src="images/oz-soundz-unleashed.png" alt="Oz Soundz Unleashed"/>
       <div class="nav-logo-mark"><span>OZ</span></div>
       <div class="nav-logo-text">
         <span class="top">Oz Soundz</span>
