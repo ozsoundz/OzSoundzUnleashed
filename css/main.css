@@ -154,6 +154,10 @@ strong { color: var(--text-bright); font-weight: 700; }
   align-items: center;
   gap: 12px;
   text-decoration: none;
+  height: 40px;
+  width: auto;
+  max-width: 180px;
+  object-fit: contain;
 }
 
 .nav-logo-mark {
