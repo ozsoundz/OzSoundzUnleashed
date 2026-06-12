@@ -156,7 +156,7 @@ strong { color: var(--text-bright); font-weight: 700; }
 }
 
 .nav-logo-image {
-  height: 40px;   /* adjust between 30px and 50px as needed */
+  height: 50px;   /* adjust between 30px and 50px as needed */
   width: auto;
   display: block;
   object-fit: contain;

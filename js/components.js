@@ -15,12 +15,13 @@
   <div class="nav-inner">
     <a href="${root}index.html" class="nav-logo" aria-label="Oz Soundz Unleashed Home">
     <img src="images/OzSoundzUnleashedLogo.png" class="nav-logo-image" alt="Oz Soundz Unleashed"/>
-      <div class="nav-logo-mark"><span>OZ</span></div>
+      // ---- <div class="nav-logo-mark"><span>OZ</span></div> ----//
       <div class="nav-logo-text">
         <span class="top">Oz Soundz</span>
         <span class="bottom">Unleashed</span>
       </div>
     </a>
+
 
     <ul class="nav-links" id="nav-links">
       <li><a href="${root}index.html">Home</a></li>
