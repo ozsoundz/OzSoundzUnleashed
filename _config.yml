@@ -1,0 +1,16 @@
+# GitHub Pages Configuration
+# Oz Soundz Unleashed
+
+title: "Oz Soundz Unleashed"
+description: "The Independent Voice of Australian Music & Audio"
+url: "https://yourusername.github.io"
+baseurl: "/ozsoundz-unleashed"
+
+# Theme — using none (custom HTML/CSS/JS site)
+theme:
+
+# Exclude from build
+exclude:
+  - README.md
+  - "*.sh"
+  - node_modules
