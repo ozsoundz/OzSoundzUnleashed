@@ -122,8 +122,8 @@
       <div class="footer-col">
         <h4>Listen Now</h4>
         <ul>
-          <li><a href="https://open.spotify.com/show/..." target="_blank" rel="noopener">Spotify</a></li>
-          <li><a href="https://podcasts.apple.com/au/podcast/..." target="_blank" rel="noopener">Apple Podcasts</a></li>
+          <li><a href="https://open.spotify.com/show/1hesPWxJaRNtgo8lZB2Hau" target="_blank" rel="noopener">Spotify</a></li>
+          <li><a href="https://podcasts.apple.com/au/podcast/oz-soundz-unleashed/id1829397348" target="_blank" rel="noopener">Apple Podcasts</a></li>
           <li><a href="${root}pages/our-media/index.html">All Platforms</a></li>
           <li><a href="${root}pages/sponsors.html">Sponsors</a></li>
           <li><a href="${root}pages/contact.html">Contact Us</a></li>
