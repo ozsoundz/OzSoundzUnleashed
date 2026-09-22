@@ -7,7 +7,7 @@
 
   // Detect root path depth
   const depth = (window.location.pathname.match(/\//g) || []).length - 1;
-  const root = depth <= 1 ? './' : depth === 2 ? '../' : '../../';
+  const root = depth === 0 ? './' : depth === 1 ? '../' : '../../';
 
   // ---- NAV HTML ----
   const navHTML = `
